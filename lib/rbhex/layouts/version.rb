@@ -1,5 +1,5 @@
 module Rbhex
-  module Core
+  module Layouts
     VERSION = '1.1.0.alpha4'
   end
 end
